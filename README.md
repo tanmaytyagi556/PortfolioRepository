@@ -21,6 +21,9 @@ It contains links to my personal pages.
 - Twitter: [@Tanmay_Tyagi556](https://twitter.com/Tanmay_Tyagi556)
 - LinkedIn: [Tanmay](https://www.linkedin.com/in/tanmay-tyagi-4bb3b91aa/)
 
+## Getting Started
+To start with this project, this repository must be run on a web browser and also calls for a basic understanding of HTML, CSS and Linters.
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
