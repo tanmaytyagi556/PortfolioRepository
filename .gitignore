@@ -1,0 +1,11 @@
+node_modules
+.hintrc
+.styleintrc.json
+package.json
+package-lock.json
+Union.png
+Vector.svg
+Vector(1).svg
+Vector(2).svg
+Vector(3).svg
+headline.png
