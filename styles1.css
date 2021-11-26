@@ -9,6 +9,7 @@ body {
   display: flex;
   justify-content: space-between;
   padding: 0 5px;
+  position: sticky;
 }
 
 .text1 {
@@ -27,10 +28,11 @@ body {
   text-align: center;
   color: #6070ff;
   padding: 0.8em;
+  text-decoration: none;
 }
 
 .nav {
-  padding: 0.8em;
+  padding: 1.2em;
 }
 
 button {
@@ -38,7 +40,7 @@ button {
   background: none;
 }
 
-.container {
+.section {
   background-image: url('headline.png');
   background-repeat: no-repeat;
   background-size: auto;
@@ -84,15 +86,22 @@ button {
   padding: 0;
   margin-top: 0;
   margin-left: 0;
+  align-items: center;
 }
 
 .headline li {
   padding: 0 0;
   margin-left: 0;
-  padding-right: 10px;
+  padding-right: 1em;
+  margin-bottom: 0;
+  position: relative;
 }
 
 .firstVector img {
   padding-left: 0;
   margin-left: 0;
+}
+
+.connect {
+  color: #7f8cff !important;
 }
